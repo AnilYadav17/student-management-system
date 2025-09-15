@@ -106,10 +106,15 @@ Just remember to give credit to Anil Yadav.
 
 👨‍💻 Author
 
-Anil Yadav 
+Anil Yadav and Team :
 Github&LinkedIn :AnilYadav17 
 BTech CSE Student | Cybersecurity Enthusiast
 Email: ay5741432@gmail.com
 
 
+Team Members:
+Abhishek Daya .
+Purab Mathe .
+
+✨
 
