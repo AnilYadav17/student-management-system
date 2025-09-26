@@ -35,6 +35,10 @@ It’s perfect for learning Python **GUI programming** and **databases** while k
 5. View results in a clean text box  
 6. Friendly interface with buttons and input boxes  
 
+
+GUI :--
+<img width="757" height="490" alt="image" src="https://github.com/user-attachments/assets/03639695-0bf3-43cd-a8fb-f0f12d6796cc" />
+
 ---
 
 ## 🚀 Installation & Setup (Super Easy)
