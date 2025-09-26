@@ -33,10 +33,12 @@ It’s perfect for learning Python **GUI programming** and **databases** while k
 3. Delete students by their ID  
 4. Search students by ID or Name  
 5. View results in a clean text box  
-6. Friendly interface with buttons and input boxes  
+6. Friendly interface with buttons and input boxes
+   
+GUI:-
+how cool it is ....
 
 
-GUI :--
 <img width="757" height="490" alt="image" src="https://github.com/user-attachments/assets/03639695-0bf3-43cd-a8fb-f0f12d6796cc" />
 
 ---
